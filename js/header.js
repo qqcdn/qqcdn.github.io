@@ -93,7 +93,7 @@ document.writeln("人气：");
 }
 
 function xihuan(){
-document.writeln("猜你喜欢");
+document.writeln("猜你喜欢：");
 }
 
 
