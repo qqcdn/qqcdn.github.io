@@ -92,6 +92,8 @@ function renqi(){
 document.writeln("人气：");
 }
 
-function cailixihuan(){
+function xihuan(){
 document.writeln("猜你喜欢");
 }
+
+
