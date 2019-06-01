@@ -30,7 +30,6 @@ document.writeln("<div class=\'footer\'><p><a href=\'/new.html\' title=\'最新�
 
 }
 
-
 //统计
 function tongji(){
 
