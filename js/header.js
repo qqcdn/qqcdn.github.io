@@ -18,7 +18,7 @@ document.writeln("<span class=\"red f14\"><font color=\"red\">亲，你知道吗
 //logo
 function logo(){
 
-document.writeln("<div class=\'bobologo mb15\'><a href=\'/\'><img src=\'//cdn.jsdelivr.net/gh/qqcdn/qqcdn.github.io/logo/hdw.png\' alt=\'Magnetic Search BT Seed Search Tool Free download BT seed, over 40 million seed data\' /></a></div>");
+document.writeln("<div class=\'bobologo mb15\'><a href=\'/\'><img src=\'//cdn.jsdelivr.net/gh/qqcdn/qqcdn.github.io/logo/hdw.png\' alt=\'海盗湾BT\' /></a></div>");
 
 }
 
