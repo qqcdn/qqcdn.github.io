@@ -45,7 +45,7 @@ document.writeln("收录今日热门的磁力链接/BT种子资源,收录今日�
 
 //内容页
 function hash(){
-document.writeln("种子哈希：");
+document.writeln("hash：");
 }
 
 function wenjiandaxiao(){
