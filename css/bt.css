@@ -131,12 +131,18 @@ a:hover{text-decoration:underline}
 .tag-cloud{padding-right:0}
 .tag-cloud a{padding:2px 7px;color:#fff;line-height:1.5em;display:inline-block;margin:3px 5px 6px 0;-webkit-transition:all .2s ease;-o-transition:all .2s ease;transition:all .2s ease;font-size:13px;background:#7266ba;border-radius:15px}
 .tag-cloud a:hover{color:#fff;background:#e67e22;text-decoration:underline}
-.tag-cloud a:nth-child(7n+1){background:#23b7e5}
-.tag-cloud a:nth-child(7n+2){background:#23ad44}
-.tag-cloud a:nth-child(7n+3){background:#fad733}
-.tag-cloud a:nth-child(7n+4){background:#f05050}
-.tag-cloud a:nth-child(7n+5){background:#7266ba}
-.tag-cloud a:nth-child(7n+6){background:#6a6aff}
-.tag-cloud a:nth-child(7n+7){background:#ffdac8}
+.tag-cloud a:nth-child(12n+1){background:#23b7e5}
+.tag-cloud a:nth-child(12n+2){background:#23ad44}
+.tag-cloud a:nth-child(12n+3){background:#fad733}
+.tag-cloud a:nth-child(12n+4){background:#f05050}
+.tag-cloud a:nth-child(12n+5){background:#7266ba}
+.tag-cloud a:nth-child(12n+6){background:#6a6aff}
+.tag-cloud a:nth-child(12n+7){background:#ffdac8}
+.tag-cloud a:nth-child(12n+8){background:#FFBD9D}
+.tag-cloud a:nth-child(12n+9){background:#3D7878}
+.tag-cloud a:nth-child(12n+10){background:#DAB1D5}
+.tag-cloud a:nth-child(12n+11){background:#D1E9E9}
+.tag-cloud a:nth-child(12n+12){background:#DEFFAC}
 .tag-cloud a:hover{opacity:1}
+
 
