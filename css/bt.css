@@ -136,11 +136,11 @@ a:hover{text-decoration:underline}
 .tag-cloud a:nth-child(12n+3){background:#fad733}
 .tag-cloud a:nth-child(12n+4){background:#f05050}
 .tag-cloud a:nth-child(12n+5){background:#7266ba}
-.tag-cloud a:nth-child(12n+6){background:#6a6aff}
+.tag-cloud a:nth-child(12n+6){background:#0080FF}
 .tag-cloud a:nth-child(12n+7){background:#ffdac8}
 .tag-cloud a:nth-child(12n+8){background:#FFBD9D}
 .tag-cloud a:nth-child(12n+9){background:#3D7878}
-.tag-cloud a:nth-child(12n+10){background:#DAB1D5}
+.tag-cloud a:nth-child(12n+10){background:#B15BFF}
 .tag-cloud a:nth-child(12n+11){background:#D1E9E9}
 .tag-cloud a:nth-child(12n+12){background:#DEFFAC}
 .tag-cloud a:hover{opacity:1}
