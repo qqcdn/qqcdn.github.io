@@ -145,6 +145,13 @@ a:hover{text-decoration:underline}
 .tag-cloud a:nth-child(12n+12){background:#1E90FF}
 .tag-cloud a:hover{opacity:1}
 
+.am-sticky {
+	position:fixed!important;
+	z-index:1010;
+	-webkit-transform-origin:0 0;
+	-ms-transform-origin:0 0;
+	transform-origin:0 0
+}
 [data-am-sticky][class*=am-animation-] {
 	-webkit-animation-duration:.2s;
 	animation-duration:.2s
