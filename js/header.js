@@ -26,7 +26,7 @@ document.writeln("<div class=\'bobologo mb15\'><a href=\'/\'><img src=\'//cdn.js
 //全站底部
 function foot(){
 
-document.writeln("<div class=\'footer\'><p><a href=\'/new.html\' title=\'最新磁力 \' target=\'_blank\'>最新磁力</a>&nbsp;<a href=\'/tag-1.html\' title=\'热门搜索 \' target=\'_blank\'>热门搜索</a>&nbsp;<a href=\'/weekhot.html\' title=\'一周排行榜 \' target=\'_blank\'>一周排行榜</a>&nbsp;<a href=\'/map/sitemap.xml\' title=\'地图索引 \' target=\'_blank\'>地图索引</a></p></div>");
+document.writeln("<div class=\'footer\'><p><a href=\'/new.html\' title=\'最新磁力 \' target=\'_blank\'>最新磁力</a>&nbsp;<a href=\'/tag-1.html\' title=\'热门搜索 \' target=\'_blank\'>热门搜索</a>&nbsp;<a href=\'/weekhot.html\' title=\'一周排行榜 \' target=\'_blank\'>一周排行榜</a>&nbsp;</p></div>");
 
 }
 
