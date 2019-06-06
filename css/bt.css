@@ -127,7 +127,6 @@ a:hover{text-decoration:underline}
 .mininav a{margin-right:0;padding:0 8px;margin-left:0}
 }
 
-
 .tag-cloud{padding-right:0}
 .tag-cloud a{padding:2px 7px;color:#fff;line-height:1.5em;display:inline-block;margin:3px 5px 6px 0;-webkit-transition:all .2s ease;-o-transition:all .2s ease;transition:all .2s ease;font-size:13px;background:#7266ba;border-radius:15px}
 .tag-cloud a:hover{color:#fff;background:#e67e22;text-decoration:underline}
@@ -145,15 +144,4 @@ a:hover{text-decoration:underline}
 .tag-cloud a:nth-child(12n+12){background:#1E90FF}
 .tag-cloud a:hover{opacity:1}
 
-.am-sticky {
-	position:fixed!important;
-	z-index:1010;
-	-webkit-transform-origin:0 0;
-	-ms-transform-origin:0 0;
-	transform-origin:0 0
-}
-[data-am-sticky][class*=am-animation-] {
-	-webkit-animation-duration:.2s;
-	animation-duration:.2s
-}
 
