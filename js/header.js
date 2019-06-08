@@ -96,4 +96,11 @@ function xihuan(){
 document.writeln("猜你喜欢：");
 }
 
+function cililianjie(){
+document.writeln("磁力链接：");
+}
+
+function xunleilianjie(){
+document.writeln("迅雷链接：");
+}
 
