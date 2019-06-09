@@ -104,3 +104,7 @@ function xunleilianjie(){
 document.writeln("迅雷链接：");
 }
 
+function zhongzifenlei(){
+document.writeln("种子分类：");
+}
+
