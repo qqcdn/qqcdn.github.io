@@ -108,3 +108,37 @@ function zhongzifenlei(){
 document.writeln("种子分类：");
 }
 
+function xiazaibtzhongzi(){
+document.writeln("<h3>下载BT种子文件</h3>");
+}
+
+function remensousuo(){
+document.writeln("<h3>热门搜索</h3>");
+}
+
+function wenjianliebiao(){
+document.writeln("<h3>文件列表</h3>");
+}
+
+function cainixihuan(){
+document.writeln("<h3>猜你喜欢</h3>");
+}
+
+function zuixincili(){
+document.writeln("<h3>最新磁力</h3>");
+}
+
+function xiaoshi24(){
+document.writeln("<h3>24小时热门磁力</h3>");
+}
+
+function benzhou(){
+document.writeln("<h3>本周热门磁力</h3>");
+}
+
+function banquantixing(){
+document.writeln("<h3>版权提醒<</h3>");
+}
+
+
+
