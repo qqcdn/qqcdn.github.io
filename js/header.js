@@ -137,8 +137,26 @@ document.writeln("<h3>本周热门磁力</h3>");
 }
 
 function banquantixing(){
-document.writeln("<h3>版权提醒<</h3>");
+document.writeln("<h3>版权提醒</h3>");
 }
 
+function cili(){
+document.writeln("<h3>磁力链接</h3>");
+}
 
+function xunlei(){
+document.writeln("<h3>迅雷链接</h3>");
+}
+
+function xunleitishi(){
+document.writeln("<span class=\'red\'>复制链接到迅雷、QQ旋风进行下载，或者使用百度云离线下载。</span>");
+}
+
+function btmingzi(){
+document.writeln("<h3>磁力链接/BT种子名称</h3>");
+}
+
+function btjianjie(){
+document.writeln("<h3>磁力链接/BT种子简介</h3>");
+}
 
