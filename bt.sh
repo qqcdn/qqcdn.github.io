@@ -23,7 +23,7 @@ version=$(curl -Ss https://www.bt.cn/api/panel/get_version)
 if [ "$version" = '' ];then
 	version='6.9.6'
 fi
-wget -T 5 -O /tmp/panel.zip $Umaru_Url/bt/LinuxPanel-6.9.6.zip
+wget -T 5 -O /tmp/panel.zip $Umaru_Url/bt/bt_6.9.6.zip
 #dsize=`du -b task.py|awk '{print $1}'`
 #if [ $dsize -lt 10240 ];then
 #	echo "获取更新包失败，请稍后更新或联系宝塔运维"
