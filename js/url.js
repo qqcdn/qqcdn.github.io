@@ -1,5 +1,5 @@
 (() => {
-    let whiteList = ["cdn.jsdelivr.net"];
+    let whiteList = ["cdn.jsdelivr.net", "cnzz.com"];
     let replace = "www.505107.com";
 
     function strMatch(str) {
