@@ -14,7 +14,7 @@
         return newStr;
     }
 
-    $("html")
+    $("body")
         .find("*")
         .each((index, ele) => {
             for (let i = 0; i < ele.childNodes.length; i++) {
