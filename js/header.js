@@ -33,7 +33,17 @@ document.writeln("<div class=\'footer\'><p><a href=\'/new.html\' target=\'_blank
 //统计
 function tongji(){
 
-document.writeln("<p style=\'display: none;\'><script type=\'text/javascript\' src=\'//js.users.51.la/5300013.js\'></script></p>");
+document.writeln("<div style=\"display:none\" >");
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\"script\");");
+document.writeln("  hm.src = \"//hm.baidu.com/hm.js?3356430bf5769e796fe4ca700361344e\";");
+document.writeln("  var s = document.getElementsByTagName(\"script\")[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");
+document.writeln("</div>");
 
 }
 
